@@ -148,8 +148,6 @@ DEFAULT_USE_CASE=inference
 INCLUDE_KV_CACHE=False
 ```
 
-A `.env.example` file is provided for reference.
-
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
